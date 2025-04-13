@@ -5,5 +5,5 @@
 
 •	It uses object-oriented programming principles, I incorporated key concepts such as has-a-relationship, method overriding, method overloading, constructor overriding, inheritance, and upcasting to create a robust and extensible codebase.
 
-# Technologies Used
+# Tech-Stack
 Java concepts such as class, Object, Constructor, Inheritance, Polymorphism, Upcasting, Method Overriding, HAS-A Relationship, Interface
